@@ -1,1 +1,1 @@
-#png to gif converter using python
+png to gif converter using python
